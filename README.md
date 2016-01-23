@@ -1,6 +1,5 @@
 # Spending Endpoint
-Access the endpoint by sending a request to the endpoint. Eg:
-```http://urlhere.com/?amount=30&name=Oxfam```
+Access the endpoint by sending a request to the endpoint. Eg: `http://urlhere.com/?amount=30&name=Oxfam`
 
 (Replace 30 and Oxfam with the actual amount and charity name)
 

@@ -1,0 +1,112 @@
+/*! HTML5 Boilerplate v5.0 | MIT License | http://h5bp.com/ */
+
+html, body {
+    background: #e9d0a2;
+    margin: 0px;
+    padding: 0px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.header {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
+  color: #9bbda9;
+  background: #24788b;
+  text-align: center;
+}
+
+.header div {
+  display: inline-block;
+  text-align: center;
+}
+
+.header div:last-child {
+  margin-top: 0;
+}
+
+
+.yourDonationTo {
+  font-size: 21px;
+  margin-top: 15px;
+  margin-bottom: 4px;
+}
+
+.charityName {
+  font-weight: 700;
+  font-size: 24px;
+  border-bottom: 1px dashed #9bbda9;
+  margin-bottom: 15px;
+}
+
+
+.total {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 30px;
+  font-family: 'Lobster', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  color: #e44d61;
+}
+
+.amount {
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.breakdown {
+  margin-top: 30px;
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+}
+
+.spend {
+  width: 80%;
+  height: 55px;
+  background: #e44d61;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.spend + .spend {
+  margin-top: 5px;
+}
+
+.price {
+  width: 55px;
+  height: 55px;
+  display: block;
+  background: #9bbda9;
+  font-size: 24px;
+  color: #e44d61;
+  text-align: center;
+  line-height: 55px;
+  float: left;
+}
+
+.description {
+  float: left;
+  display: block;
+  margin-top: 6px;
+  margin-left: 8px;
+  color: #9bbda9;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.body {
+  margin-top: 2px;
+}
